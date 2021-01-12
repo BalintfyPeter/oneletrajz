@@ -1,0 +1,36 @@
+body {
+    background-image: url("Images/Background.webp");
+    background-size: 100% auto;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+table {
+    background-color: white;
+    margin: 1cm;
+}
+
+caption {
+    color: black;
+    font-size: 2em;
+}
+
+#table1 {
+    color: lightseagreen;
+}
+
+#guitar {
+    color: lightskyblue;
+}
+
+#kezdet {
+    background-color: green;
+}
+
+#kezdet_utan {
+    background-color: yellow;
+}
+
+#mostanaban {
+    background-color: red;
+}
